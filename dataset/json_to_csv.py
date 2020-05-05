@@ -1,9 +1,6 @@
 import csv
 import sqlite3
 
-from glob import glob
-from os.path import expanduser
-
 OUTPUT_FILE = 'dataset.csv'
 DATABASE = 'database.sqlite'
 
