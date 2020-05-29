@@ -1,4 +1,4 @@
-﻿# Supervised learning models to predicting football matches outcomes
+# Supervised learning models used to predict football matches outcomes
 
 **Results** - You can see the results on the html file in src/ \
 **Disclaimer** - This repository was created for educational purposes and we do not take any responsibility for anything related to its content. You are free to use any code or algorithm you find, but do so at your own risk.
@@ -1124,40 +1124,25 @@ interested in this topic and pursue it in future years.
 
 * [Europen Soccer Database](https://www.kaggle.com/hugomathien/soccer)
 
-* [Football Data Analysis](https://www.kaggle.com/pavanraj159/european-football-
-data-analysis#The-ultimate-Soccer-database-for-data-analysis-and-machine-
-learning)
+* [Football Data Analysis](https://www.kaggle.com/pavanraj159/european-football-data-analysis#The-ultimate-Soccer-database-for-dataanalysis-and-machine-learning)
 
-* [Data Analysis and Machine Learning Projects](https://github.com/rhiever/Data-
-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-
-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+* [Data Analysis and Machine Learning Projects](https://github.com/rhiever/Data-Analysis-and-Machine-LearningProjects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
-* [Match Outcome Prediction in Football](https://www.kaggle.com/airback/match-
-outcome-prediction-in-football)
+* [Match Outcome Prediction in Football](https://www.kaggle.com/airback/match-outcome-prediction-in-football)
 
-* [European Soccer Database Supplementary (XML Events to
-CSV)](https://www.kaggle.com/jiezi2004/soccer)
+* [European Soccer Database Supplementary (XML Events to CSV)](https://www.kaggle.com/jiezi2004/soccer)
 
-* [A deep learning framework for football match
-prediction](https://link.springer.com/article/10.1007/s42452-019-1821-5)
+* [A deep learning framework for football match prediction](https://link.springer.com/article/10.1007/s42452-019-1821-5)
 
 * [Predicting Football Match Outcome using Machine Learning: Football Match
 prediction using machine learning algorithms in jupyter
-notebook](https://github.com/prathameshtari/Predicting-Football-Match-Outcome-
-using-Machine-Learning)
+notebook](https://github.com/prathameshtari/Predicting-Football-Match-Outcome-using-Machine-Learning)
 
 * [(PDF) Football Result Prediction by Deep Learning
 Algorithms](https://www.researchgate.net/publication/334415630_Football_Result_Prediction_by_Deep_Learning_Algorithms)
 
 * [Predicting Football Results Using Machine Learning
-Techniques](https://www.imperial.ac.uk/media/imperial-college/faculty-of-
-engineering/computing/public/1718-ug-projects/Corentin-Herbinet-Using-Machine-
-Learning-techniques-to-predict-the-outcome-of-profressional-football-
-matches.pdf)
+Techniques](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/CorentinHerbinet-Using-Machine-Learning-techniques-to-predict-the-outcome-of-profressional-football-matches.pdf)
 
 * [A machine learning framework for sport result
 prediction](https://www.sciencedirect.com/science/article/pii/S2210832717301485)
-
-```python
-
-```
