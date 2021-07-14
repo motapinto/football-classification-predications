@@ -1,5 +1,2 @@
-*/*.csv
-*/*.sqlite
-*/*.xlsx
 .idea
 .ipynb_checkpoints
